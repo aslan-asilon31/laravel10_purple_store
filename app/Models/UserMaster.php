@@ -8,6 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class UserMaster extends Model
 {
     use HasFactory;
+    //tess
 
     protected $fillable = [
         'name',
